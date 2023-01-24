@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php
-echo rand(0, 10);
+echo rand(0, 5);
 ?>
 </body>
 </html>
